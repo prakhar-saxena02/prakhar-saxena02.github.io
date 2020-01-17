@@ -1,16 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\pages",
-    "\\pages\\forms",
-    "\\pages\\mailbox",
-    "\\pages\\Payments",
-    "\\pages\\Questions",
-    "\\pages\\Rank",
-    "\\pages\\Schedule_Quiz",
-    "\\pages\\Setup_Quiz",
-    "\\pages\\Topics"
+    ""
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\pages",
   "PreviewInSolutionExplorer": false
 }
